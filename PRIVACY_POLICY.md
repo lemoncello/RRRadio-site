@@ -1,3 +1,8 @@
+---
+title: Política de privacidad
+permalink: /PRIVACY_POLICY/
+---
+
 # RRRadio — Privacy Policy
 
 **Last updated:** 2026-07-13
