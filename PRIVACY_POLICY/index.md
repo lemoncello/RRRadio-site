@@ -1,6 +1,5 @@
 ---
 title: Política de privacidad
-permalink: /PRIVACY_POLICY/
 ---
 
 # RRRadio — Privacy Policy
