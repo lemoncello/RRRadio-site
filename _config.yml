@@ -1,0 +1,4 @@
+# Jekyll config for the RRRadio public site (GitHub Pages).
+theme: jekyll-theme-minimal
+title: RRRadio
+description: Política de privacidad e información pública de RRRadio.
