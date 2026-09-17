@@ -55,4 +55,5 @@ If this policy changes, the updated version will be posted here with a new date.
 
 ## 8. Contact
 
-For questions about this policy, open an issue on the project's GitHub repository.
+For questions about this policy, write to <mguadagnini@gmail.com> or use the
+contact form at <https://lemoncello.github.io/RRRadio-site/>.
