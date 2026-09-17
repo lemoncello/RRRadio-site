@@ -19,7 +19,8 @@ world and keep listening even when your connection gets bumpy.
 
 ## Availability
 
-Coming to **Google Play**.
+- **Android:** [RRRadio on Google Play](https://play.google.com/store/apps/details?id=com.copix.rrradio)
+- **iOS:** [RRRadio on the App Store](https://apps.apple.com/app/id6803565505)
 
 ## Privacy
 
